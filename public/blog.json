@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/vZw6r22/1099923.jpg",
+        "title": "The Secret Garden",
+        "author": "Jane Doe",
+        "author_img": "https://i.ibb.co/zZh1D50/entrepreneur-593358-1280.jpg",
+        "posted_date": "January 15, 2024",
+        "reading_time": 35,
+        "hashtag": ["#Fantasy", "#Classic", "#Gardening"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/kgChYtk/HD-wallpaper-one-piece-fighting-path.jpg",
+        "title": "Lost in Time",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/KWR8s1g/download-1.jpg",
+        "posted_date": "February 5, 2024",
+        "reading_time": 30,
+        "hashtag": ["#Fantasy", "#Classic", "#Gardening"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/C7MF2jF/maxresdefault.jpg",
+        "title": "Whispers in the Wind",
+        "author": "Emily Johnson",
+        "author_img": "https://i.ibb.co/zZh1D50/entrepreneur-593358-1280.jpg",
+        "posted_date": "March 1, 2024",
+        "reading_time": 25,
+        "hashtag": ["#Fantasy", "#Classic", "#Gardening"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/HYfG8wT/zoro-shusui-sword-one-piece-thumb.jpg",
+        "title": "Echoes of Silence",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co/KWR8s1g/download-1.jpg",
+        "posted_date": "April 10, 2024",
+        "reading_time": 35,
+        "hashtag": ["#Fantasy", "#Classic", "#Gardening"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/xf4fr0G/code.jpg",
+        "title": "Beyond the Horizon",
+        "author": "Sarah Lee",
+        "author_img": "https://i.ibb.co/zZh1D50/entrepreneur-593358-1280.jpg",
+        "posted_date": "May 20, 2024",
+        "reading_time": 50,
+        "hashtag": ["#Fantasy", "#Classic", "#Gardening"]
+    }
+]
